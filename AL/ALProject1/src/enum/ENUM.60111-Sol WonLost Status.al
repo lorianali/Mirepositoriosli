@@ -1,6 +1,6 @@
 enum 60111 "Sol Won/Lost Status"
 {
-    Extensible = true;
+    Extensible = false;
 
     value(0; "In Progress")
     {
